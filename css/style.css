@@ -622,6 +622,7 @@ img {
     border-radius: 2px;
 }
 .modal-form-own-checkbox-border {
+    cursor: pointer;
     position: absolute;
     color: var(--primary-text-color);
 }
